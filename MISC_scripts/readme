@@ -1,0 +1,6 @@
+// Sample scripts for file processing
+
+    1.Modify_params: This script searches for a particular string and replace with another string
+    2.script:       This script polls for an application, when limited licences available in the server.
+
+
